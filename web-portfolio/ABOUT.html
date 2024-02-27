@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ABOUT</title>
+    <link rel="icon" type="image/x-icon" href="../images/고양이.jpeg"/>
+    <link href="ABOUT.css" rel="stylesheet" type="text/css"/>
+
+</head>
+<body>
+<div>
+    <a href="HOME.html"><img id="home-img" src="../images/home.png"/></a>
+    <header id="abt-header">
+        <div id="abt-div"><h3 id="abt-text"><b>ABOUT ME</b></h3></div>
+    </header>
+    <div id="outer">
+        <div class="img1">
+            <img src="../images/고양이.jpeg" class="icon" id="profile"/>
+        </div>
+        <div class="content">
+            <img src="../images/프로필.png" class="icon" />
+            <table>
+                <tr>
+                    <td class="td-class"><h3 class="td-h3">Name</h3></td>
+                    <td>고동환</td>
+                </tr>
+                <tr>
+                    <td class="td-class"><h3 class="td-h3">Birth</h3></td>
+                    <td>1998.11.14</td>
+                </tr>
+                <tr>
+                    <td class="td-class"><h3 class="td-h3">Address</h3></td>
+                    <td>서울시 도봉구 창동</td>
+                </tr>
+                <tr>
+                    <td class="td-class"><h3 class="td-h3">E-Mail</h3></td>
+                    <td>eurdream98@naver.com</td>
+                </tr>
+                <tr>
+                    <td class="td-class"><h3 class="td-h3">Phone</h3></td>
+                    <td>010-5479-2361</td>
+                </tr>
+            </table>
+        </div>
+        <div class="content">
+            <img src="../images/성격3.png" class="icon"/>
+            <table>
+                <tr>
+                    <td class="td-class td-class2"><h3 class="td-h3">MBTI</h3></td>
+                    <td>ISFP</td>
+                </tr>
+                <tr>
+                    <td class="td-class td-class2"><h3 class="td-h3">취미</h3></td>
+                    <td>헬스,음악감상</td>
+                </tr>
+                <tr>
+                    <td class="td-class td-class2"><h3 class="td-h3">성격</h3></td>
+                    <td>끈기가 있고 새로운 것을 발견하면 배우려는 욕구가 강하며 항상 맡은 일은 기간 안에 끝내는 편입니다.</td>
+                </tr>
+            </table>
+        </div>
+        <div class="content">
+            <img src="../images/학사모3.png" class="icon"/>
+            <table>
+                <tr>
+                    <td class="td-class"><h3 class="td-h3">삼육대학교</h3></td>
+                    <td>경영정보학과 졸업</td>
+                </tr>
+                <tr>
+                    <td class="td-class"><h3 class="td-h3">백엔드 SW 개발자 과정</h3></td>
+                    <td>2023.03~2023.12</td>
+                </tr>
+                <tr>
+                    <td class="td-class"><h3 class="td-h3">풀스택 개발자 양성 과정(KDT)</h3></td>
+                    <td>2023.12~2024.06</td>
+                </tr>
+            </table>
+        </div>
+        <div class="content">
+            <img src="../images/자격증.png" class="icon"/>
+            <table>
+            <tr>
+                <td class="td-class"><h3 class="td-h3">정보처리기사</h3></td>
+                <td>2024.03</td>
+            </tr>
+            </table>
+        </div>
+        <div class="content">
+            <img src="../images/노트북.png" class="icon"/>
+            <table id="table-img">
+                <tr>
+                    <td class="td-class"><img id="github-img" src="../images/깃허브.png"></td>
+                    <td><a href="https://github.com/eurdream98">https://github.com/eurdream98</a></td>
+                </tr>
+                <tr>
+                    <td class="td-class"><img id="notion-img" src="../images/Notion-logo.svg"></td>
+                    <td><a href="https://www.notion.so/c2002e568d234152bc48b16503079b51">https://www.notion.so<br>/c2002e568d234152bc48b16503079b51</a></td>
+                </tr>
+                <tr>
+                    <td class="td-class"><img id="tistory-img" src="../images/tistory.svg"></td>
+                    <td><a href="eurdream98@tistory.com">eurdream98@tistory.com</a></td>
+                </tr>
+            </table>
+        </div>
+        <div class="content">
+            <img src="../images/도구.png" class="icon"/>
+            <table>
+                <tr>
+                    <td class="td-class"><h3 class="td-h3">BodyRecord</h3></td>
+                    <td>운동 기록용 어플리케이션</td>
+                </tr>
+                <tr>
+                    <td class="td-class"><h3 class="td-h3">프로젝트2</h3></td>
+                    <td>프로젝트2에 관한 내용 </td>
+                </tr>
+                <tr>
+                    <td class="td-class"><h3 class="td-h3">프로젝트3</h3></td>
+                    <td>프로젝트3에 관한 내용</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
+<script>
+    const $outer = document.getElementById("outer");
+    $outer.classList.add('outer1');
+
+    const $tableCells = document.getElementsByTagName('td');
+
+    Array.from($tableCells).forEach(cell => {
+        cell.addEventListener('mouseover',()=>{
+            cell.style.fontSize="2rem";
+        })
+    });
+
+    Array.from($tableCells).forEach(cell => {
+        cell.addEventListener('mouseout',()=>{
+            cell.style.fontSize="1rem";
+        })
+    });
+
+    const $about = document.getElementById("abt-text");
+    $about.classList.add('animation3');
+</script>
+</body>
+</html>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39232651-8b77-482c-b6d3-f2e06f4184e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABOUT.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABOUT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HOME.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HOME.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SKILLS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SKILLS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Notion-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Notion-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/css.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jpa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/js.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/oracle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pexels-negative-space-160107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/react.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/servlets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/spring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tistory.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/고양이.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/깃허브.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/노트북.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/도구.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/성격3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/자격증.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/프로필.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/학사모3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-portfolio.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ccspO3jYqmPMrT93HpUk6Awzq9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/08_Javascript/workspace",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\07_CSS\homework\web-portfolio\images" />
+      <recent name="C:\07_CSS\homework\web-portfolio" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39232651-8b77-482c-b6d3-f2e06f4184e0" name="Changes" comment="" />
+      <created>1708422384692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708422384692</updated>
+      <workItem from="1708422385657" duration="7329000" />
+      <workItem from="1708591572985" duration="11741000" />
+      <workItem from="1708647625508" duration="690000" />
+      <workItem from="1708819685675" duration="18548000" />
+      <workItem from="1708854101291" duration="103000" />
+      <workItem from="1708907945224" duration="409000" />
+      <workItem from="1708941331185" duration="7933000" />
+      <workItem from="1708993741771" duration="804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
